@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"refactoring","l":"DayOfYear"},{"p":"price.formatter","l":"PriceFormatter"}];updateSearchResults();

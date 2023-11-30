@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"refactoring","c":"DayOfYear","l":"DayOfYear()","u":"%3Cinit%3E()"},{"p":"refactoring","c":"DayOfYear","l":"dayOfYear(int, int, int)","u":"dayOfYear(int,int,int)"},{"p":"price.formatter","c":"PriceFormatter","l":"formatPrice(double)"},{"p":"price.formatter","c":"PriceFormatter","l":"PriceFormatter()","u":"%3Cinit%3E()"}];updateSearchResults();
